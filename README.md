@@ -8,4 +8,4 @@ The goal is to build a model that identifies customers who are most likely to ac
 
 I start binning the income variable into 3 categories so that I have a better chance of visualizing it.
 
-Source of the dataset: Kaggle or University of California, school of information and Computer Science machine learning repository.
+Source of the dataset: Kaggle repository.
